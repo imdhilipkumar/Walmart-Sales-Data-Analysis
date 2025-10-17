@@ -46,6 +46,6 @@ This project analyzes Walmart sales data to uncover insights on sales, profit, a
 ---
 
 ## 🔗 View Project
-- 📂 **GitHub Repository:** [Click here to explore the project](https://github.com/yourusername/walmart-sales-analysis)  
-- 📊 **Power BI Dashboard Preview:** [Add your Power BI report link or screenshot here]
+- 📂 **GitHub Repository:** [Click here to explore the project]([https://github.com/imdhilipkumar/Walmart-Sales-Data-Analysis.git]) 
+- 📊 **Power BI Dashboard Preview:** [<img width="1155" height="658" alt="image" src="https://github.com/user-attachments/assets/664b7771-b0f5-4fb8-a646-63cc2284cd20" />]
 
